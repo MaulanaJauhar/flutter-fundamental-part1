@@ -1,8 +1,8 @@
-# flutter_hello_world2
+# Flutter Fundamental
 
 A new Flutter project.
 
-## Getting Started
+## flutter_hello_world2
 
 This project is a starting point for a Flutter application.
 
@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Praktikum 1 : Membuat Project Flutter Baru
+> [Praktikum 3] 
+> Menerapkan Widget Dasar
 ### Langkah 1
-- Pada VS Code tekan tombol **CTRL + Shift + P**, lalu pilih **Flutter: New Application Project**
+- Buat folder baru **basic_widgets** di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama **text_widget.dart**
+<img src="/assets/screenshot/0.png" width="300px">
